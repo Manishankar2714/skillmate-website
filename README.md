@@ -56,7 +56,7 @@ skillmate-website/
 1. **Clone the repo**
 
 ```bash
-git clone https:
+git clone https:https://github.com/Manishankar2714/skillmate-website.git
 cd skillmate-website
 npm install
 
