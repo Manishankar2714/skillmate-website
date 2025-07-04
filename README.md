@@ -1,6 +1,7 @@
 # Skillmate 🚀
 
 **Skillmate** is a modern, full-stack web application designed to connect users with skill-sharing opportunities. The platform provides personalized dashboards, real-time feedback, and the ability to create and view posts with images and descriptions.
+“Made with ❤️ at Skillmate”
 
 ## ✨ Features
 
